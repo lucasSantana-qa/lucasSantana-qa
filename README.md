@@ -4,7 +4,7 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 
 ---
 
-🚀 Sobre mim
+## 🚀 Sobre mim
 
 - Atuação em **testes manuais** e **automação de testes funcionais** utilizando _Selenium WebDriver_ e _Robot Framework_;
 - Experiência em **testes de API** com _Postman_ e _Rest-Assured_;
@@ -14,9 +14,10 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 
 ---
 
-🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
+![Appium](https://img.shields.io/badge/-Appium-47226C?logo=appium&logoColor=white&style=flat)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?logo=robot-framework&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Rest Assured](https://img.shields.io/badge/-Rest_Assured-6DB33F?logo=java&logoColor=white&style=flat)
@@ -26,9 +27,8 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 
 ## 📫 Entre em contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/seu-perfil)
-[![E-mail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:seu@email.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lucas-santana-9b8040211)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:lucas.oliv.santana@outlook.com)
 ---
 
 ⚡ Sempre em busca de novos aprendizados e desafios na área de qualidade de software!
