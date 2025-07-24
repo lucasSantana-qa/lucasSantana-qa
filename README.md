@@ -22,7 +22,7 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Rest Assured](https://img.shields.io/badge/-Rest_Assured-6DB33F?logo=java&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Jenkins](https://www.jenkins.io/images/logos/jenkins/jenkins.png)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue?logo=jenkins)
 
 ---
 
