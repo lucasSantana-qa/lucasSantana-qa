@@ -10,7 +10,8 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 - Experiência em **testes de API** com _Postman_ e _Rest-Assured_;
 - Vivência com **banco de dados relacionais** (consultas e validações);
 - Criação, manutenção e gerenciamento de **testwares**, promovendo eficiência e organização no ciclo de testes;
-- Aplicação de **metodologias ágeis**, colaborando para entregas alinhadas com as melhores práticas de desenvolvimento.
+- Aplicação de **metodologias ágeis**, colaborando para entregas alinhadas com as melhores práticas de desenvolvimento;
+- Conhecimento em DevOps e ferramentas de integração contínua como Jenkins e Github Actions.
 
 ---
 
