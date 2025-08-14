@@ -18,7 +18,7 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 ## 🛠️ Tecnologias e Ferramentas
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white&style=flat)
-![Cypress](https://img.shields.io/badge/Cypress?logo=cypress)
+![Cypress](https://img.shields.io/badge/Cypress-E2E%20Tests-green?logo=cypress)
 ![Appium](https://img.shields.io/badge/-Appium-47226C?logo=appium&logoColor=white&style=flat)
 ![Robot Framework](https://img.shields.io/badge/-Robot_Framework-000000?logo=robot-framework&logoColor=white&style=flat)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
