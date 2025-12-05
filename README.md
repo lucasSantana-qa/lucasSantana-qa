@@ -7,6 +7,7 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 ## 🚀 Sobre mim
 
 - Atuação em **testes manuais** e **automação de testes funcionais** utilizando _Selenium WebDriver_ e _Robot Framework_;
+- Conhecimento em ferramentas de automação modernas como _Cypress_ e _Playwright_
 - Experiência em **testes de API** com _Postman_ e _Rest-Assured_;
 - Vivência com **banco de dados relacionais** (consultas e validações);
 - Criação, manutenção e gerenciamento de **testwares**, promovendo eficiência e organização no ciclo de testes;
@@ -31,7 +32,7 @@ Me chamo Lucas Santana, sou de Belo Horizonte. Sou **Analista de Qualidade de So
 ## 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/lucas-santana-9b8040211)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:lucas.oliv.santana@outlook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=flat)](mailto:lsconsultoriaqa@outlook.com)
 ---
 
 ⚡ Sempre em busca de novos aprendizados e desafios na área de qualidade de software!
